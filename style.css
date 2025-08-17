@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Mozilla Headline", sans-serif;
+}
+img{
+    border: 5px solid white;
+    width: 800px;
+    margin-top: 80px ;
+}
+h1{
+    font-size: 60px;
+}
+p{
+    font-size: 18px;
+}
+
